@@ -9,6 +9,5 @@ void main(){
 	float r;
 	scanf("%f", &r);
 	float resultado = r*r*PI;
-	printf("AREA = %f",resultado);
 	
 }
